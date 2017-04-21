@@ -1,0 +1,385 @@
+Spring Boot Data Elasticsearch Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 2.000996s
+Spring Boot Data Elasticsearch Starter: org.springframework.data:spring-data-elasticsearch-2.1.1.RELEASE run PASSED. 1.452113s
+Spring Boot Data GemFire Starter: org.springframework.data:spring-data-gemfire-1.9.1.RELEASE run PASSED. 2.153096s
+Spring Boot Data GemFire Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 2.80074s
+Vert.x Bare GRPC: io.vertx:vertx-grpc-3.4.1 run PASSED. 1.671227s
+Vert.x Bare GRPC: io.vertx:vertx-circuit-breaker-3.4.1 run PASSED. 2.221014s
+Vert.x Bare GRPC: io.vertx:vertx-rx-java-3.4.1 run PASSED. 1.778474s
+Vert.x Bare GRPC: io.vertx:vertx-core-3.4.1 run PASSED. 1.984806s
+Vert.x Bare GRPC: io.vertx:vertx-config-3.4.1 run PASSED. 2.415395s
+Vert.x Bare GRPC: io.vertx:vertx-service-discovery-3.4.1 run PASSED. 1.994677s
+Vert.x Bare GRPC: io.vertx:vertx-health-check-3.4.1 run PASSED. 2.988819s
+Spring Boot Cache Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.989014s
+Spring Boot Cache Starter: org.springframework:spring-context-support-4.3.7.RELEASE run PASSED. 1.985077s
+Spring Boot Cache Starter: org.springframework:spring-context-4.3.7.RELEASE run PASSED. 1.999489s
+Spring Boot Data MongoDB Reactive Starter: org.mongodb:mongodb-driver-3.4.2 run PASSED. 1.065823s
+Spring Boot Data MongoDB Reactive Starter: io.projectreactor:reactor-core-3.0.6.RELEASE run PASSED. 1.765542s
+Spring Boot Data MongoDB Reactive Starter: org.springframework.data:spring-data-mongodb-2.0.0.BUILD-SNAPSHOT run FAILED. 2.058612s
+Spring Boot Data MongoDB Reactive Starter: org.springframework.boot:spring-boot-starter-2.0.0.BUILD-SNAPSHOT run FAILED. 2.627615s
+Spring Boot Data MongoDB Reactive Starter: org.mongodb:mongodb-driver-async-3.4.2 run PASSED. 2.431007s
+Spring Boot Data MongoDB Reactive Starter: org.mongodb:mongodb-driver-reactivestreams-1.3.0 run PASSED. 1.495404s
+Vert.x Bare OpenShift: io.vertx:vertx-web-3.4.1 run PASSED. 2.096052s
+Vert.x Bare OpenShift: io.vertx:vertx-config-yaml-3.4.1 run PASSED. 1.497613s
+Vert.x Bare OpenShift: io.vertx:vertx-rx-java-3.4.1 run PASSED. 1.959088s
+Vert.x Bare OpenShift: io.vertx:vertx-core-3.4.1 run PASSED. 1.772039s
+Vert.x Bare OpenShift: io.vertx:vertx-config-3.4.1 run PASSED. 1.489052s
+Vert.x Bare OpenShift: io.vertx:vertx-web-client-3.4.1 run PASSED. 2.277534s
+Vert.x Bare OpenShift: io.vertx:vertx-service-discovery-3.4.1 run PASSED. 1.499895s
+Vert.x Bare OpenShift: io.vertx:vertx-health-check-3.4.1 run PASSED. 1.574039s
+Vert.x Bare OpenShift: io.vertx:vertx-config-kubernetes-configmap-3.4.1 run PASSED. 2.102138s
+Vert.x Bare OpenShift: io.vertx:vertx-service-discovery-bridge-kubernetes-3.4.1 run PASSED. 2.164405s
+Spring Boot Web Starter: com.fasterxml.jackson.core:jackson-databind-2.8.7 run PASSED. 1.997468s
+Spring Boot Web Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.635692s
+Spring Boot Web Starter: org.springframework:spring-webmvc-4.3.7.RELEASE run PASSED. 3.018207s
+Spring Boot Web Starter: org.hibernate:hibernate-validator-5.3.4.Final run PASSED. 2.27469s
+Spring Boot Web Starter: org.springframework:spring-web-4.3.7.RELEASE run PASSED. 1.595899s
+Spring Boot Web Starter: org.springframework.boot:spring-boot-starter-tomcat-1.5.2.RELEASE run PASSED. 1.750812s
+Spring Boot HATEOAS Starter: org.springframework.boot:spring-boot-starter-web-1.5.2.RELEASE run PASSED. 21.82278s
+Spring Boot HATEOAS Starter: org.springframework.hateoas:spring-hateoas-0.23.0.RELEASE run PASSED. 1.746478s
+Spring Boot HATEOAS Starter: org.springframework.plugin:spring-plugin-core-1.2.0.RELEASE run PASSED. 1.588467s
+Spring Boot Data Cassandra Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.66558s
+Spring Boot Data Cassandra Starter: org.springframework.data:spring-data-cassandra-1.5.1.RELEASE run PASSED. 3.320994s
+Spring Boot Data Cassandra Starter: org.springframework:spring-tx-4.3.7.RELEASE run PASSED. 2.673958s
+Spring Boot Batch Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 2.262844s
+Spring Boot Batch Starter: org.springframework.batch:spring-batch-core-3.0.7.RELEASE run PASSED. 1.761349s
+Spring Boot Batch Starter: org.springframework.boot:spring-boot-starter-jdbc-1.5.2.RELEASE run PASSED. 1.426725s
+MeanJS full stack: nodemailer-4.0.0 run PASSED. 1.657971s
+MeanJS full stack: passport-linkedin-1.0.0 run PASSED. 1.93562s
+MeanJS full stack: jasmine-core-2.5.2 run PASSED. 1.648063s
+MeanJS full stack: passport-local-1.0.0 run PASSED. 1.65612s
+MeanJS full stack: connect-mongo-1.3.2 run PASSED. 1.668308s
+MeanJS full stack: passport-google-oauth-1.0.0 run PASSED. 1.668035s
+MeanJS full stack: acl-0.4.10 run PASSED. 1.156049s
+MeanJS full stack: async-2.0.1 run PASSED. 2.041414s
+MeanJS full stack: validator-6.0.0 run PASSED. 1.407861s
+MeanJS full stack: passport-twitter-1.0.4 run PASSED. 1.924815s
+MeanJS full stack: lodash-4.16.6 run PASSED. 2.025158s
+MeanJS full stack: express-4.14.1 run PASSED. 2.471312s
+MeanJS full stack: serve-favicon-2.3.2 run PASSED. 2.409866s
+MeanJS full stack: helmet-3.5.0 run PASSED. 1.502275s
+MeanJS full stack: method-override-2.3.8 run PASSED. 1.33785s
+MeanJS full stack: glob-7.1.1 run PASSED. 2.025987s
+MeanJS full stack: file-stream-rotator-0.0.7 run PASSED. 1.506355s
+MeanJS full stack: passport-paypal-openidconnect-0.1.1 run PASSED. 1.091095s
+MeanJS full stack: multer-1.2.1 run PASSED. 1.676651s
+MeanJS full stack: crypto-0.0.3 run PASSED. 1.186533s
+MeanJS full stack: body-parser-1.15.2 run PASSED. 2.419922s
+MeanJS full stack: express-hbs-1.0.4 run PASSED. 3.103335s
+MeanJS full stack: express-session-1.14.2 run PASSED. 1.669438s
+MeanJS full stack: winston-2.3.1 run PASSED. 1.67438s
+Error running component analysis of morgan-1.7.0
+MeanJS full stack: passport-facebook-2.1.1 run PASSED. 2.464574s
+MeanJS full stack: passport-github-1.1.0 run PASSED. 1.449372s
+MeanJS full stack: mocha-3.1.2 run PASSED. 2.079509s
+MeanJS full stack: phantomjs-prebuilt-2.1.14 run PASSED. 1.474239s
+MeanJS full stack: generate-password-1.2.0 run PASSED. 1.368968s
+MeanJS full stack: bower-1.7.9 run PASSED. 1.152013s
+MeanJS full stack: connect-flash-0.1.1 run PASSED. 1.079531s
+MeanJS full stack: lusca-1.4.1 run PASSED. 2.729308s
+MeanJS full stack: mongoose-4.6.8 run PASSED. 27.782779s
+MeanJS full stack: compression-1.6.2 run PASSED. 1.219918s
+MeanJS full stack: owasp-password-strength-test-1.3.0 run PASSED. 1.389143s
+MeanJS full stack: socket.io-1.7.3 run PASSED. 2.257163s
+MeanJS full stack: chalk-1.1.3 run PASSED. 2.377262s
+MeanJS full stack: passport-0.3.2 run PASSED. 1.609587s
+MeanJS full stack: cookie-parser-1.4.3 run PASSED. 2.328705s
+MeanJS full stack: wiredep-4.0.0 run PASSED. 1.182154s
+Spring Boot FreeMarker Starter: org.springframework.boot:spring-boot-starter-web-1.5.2.RELEASE run PASSED. 2.423074s
+Spring Boot FreeMarker Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 2.464626s
+Spring Boot FreeMarker Starter: org.freemarker:freemarker-2.3.25-incubating run PASSED. 2.462327s
+Spring Boot FreeMarker Starter: org.springframework:spring-context-support-4.3.7.RELEASE run PASSED. 2.037485s
+Spring Boot Mail Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.825959s
+Spring Boot Mail Starter: com.sun.mail:javax.mail-1.5.6 run PASSED. 1.674996s
+Spring Boot Mail Starter: org.springframework:spring-context-support-4.3.7.RELEASE run PASSED. 1.93258s
+Spring Boot Mail Starter: org.springframework:spring-context-4.3.7.RELEASE run PASSED. 1.94851s
+Vert.x Bare Microservice: io.vertx:vertx-web-3.4.1 run PASSED. 1.10146s
+Vert.x Bare Microservice: io.vertx:vertx-circuit-breaker-3.4.1 run PASSED. 1.368925s
+Vert.x Bare Microservice: io.vertx:vertx-rx-java-3.4.1 run PASSED. 1.883682s
+Vert.x Bare Microservice: io.vertx:vertx-core-3.4.1 run PASSED. 2.478097s
+Vert.x Bare Microservice: io.vertx:vertx-config-3.4.1 run PASSED. 1.115915s
+Vert.x Bare Microservice: io.vertx:vertx-web-client-3.4.1 run PASSED. 2.178107s
+Vert.x Bare Microservice: io.vertx:vertx-service-discovery-3.4.1 run PASSED. 2.125851s
+Vert.x Bare Microservice: io.vertx:vertx-health-check-3.4.1 run PASSED. 1.446239s
+flask-postgres: flask-migrate-2.0.3 run PASSED. 1.567233s
+flask-postgres: flask-0.12.1 run PASSED. 1.671805s
+flask-postgres: flask-wtf-0.14.2 run PASSED. 1.488004s
+flask-postgres: psycopg2-2.7.1 run PASSED. 1.34628s
+flask-postgres: flask-sqlalchemy-2.2 run PASSED. 1.086485s
+Spring Boot AMQP Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 2.430112s
+Spring Boot AMQP Starter: org.springframework.amqp:spring-rabbit-1.7.1.RELEASE run PASSED. 1.183191s
+Spring Boot AMQP Starter: org.springframework:spring-messaging-4.3.7.RELEASE run PASSED. 1.914581s
+Spring Boot Mustache Starter: org.springframework.boot:spring-boot-starter-web-1.5.2.RELEASE run PASSED. 2.0154s
+Spring Boot Mustache Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.65798s
+Spring Boot Mustache Starter: com.samskivert:jmustache-1.13 run PASSED. 1.180137s
+Spring Boot Data LDAP Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 2.093914s
+Spring Boot Data LDAP Starter: org.springframework.data:spring-data-ldap-1.0.1.RELEASE run PASSED. 1.12074s
+Spring Boot Jetty Starter: org.eclipse.jetty:jetty-servlets-9.4.2.v20170220 run PASSED. 1.977329s
+Spring Boot Jetty Starter: org.eclipse.jetty:jetty-webapp-9.4.2.v20170220 run PASSED. 1.83711s
+Spring Boot Jetty Starter: org.mortbay.jasper:apache-el-8.0.33 run PASSED. 1.669435s
+Spring Boot Jetty Starter: org.eclipse.jetty.websocket:javax-websocket-server-impl-9.4.2.v20170220 run PASSED. 1.127626s
+Spring Boot Jetty Starter: org.eclipse.jetty.websocket:websocket-server-9.4.2.v20170220 run PASSED. 2.406695s
+Spring Boot Data REST Starter: com.fasterxml.jackson.core:jackson-annotations-2.8.0 run PASSED. 2.418641s
+Spring Boot Data REST Starter: com.fasterxml.jackson.core:jackson-databind-2.8.7 run PASSED. 2.409226s
+Spring Boot Data REST Starter: org.springframework.boot:spring-boot-starter-web-1.5.2.RELEASE run PASSED. 2.341916s
+Spring Boot Data REST Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.696356s
+Spring Boot Data REST Starter: org.springframework.data:spring-data-rest-webmvc-2.6.1.RELEASE run PASSED. 1.184224s
+Spring Boot Groovy Templates Starter: org.springframework.boot:spring-boot-starter-web-1.5.2.RELEASE run PASSED. 1.944542s
+Spring Boot Groovy Templates Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.997968s
+Spring Boot Groovy Templates Starter: org.codehaus.groovy:groovy-templates-2.4.9 run PASSED. 1.18379s
+Spring Boot Social Facebook Starter: org.springframework.boot:spring-boot-starter-web-1.5.2.RELEASE run PASSED. 2.308963s
+Spring Boot Social Facebook Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.655131s
+Spring Boot Social Facebook Starter: org.springframework.social:spring-social-config-1.1.4.RELEASE run PASSED. 1.147234s
+Spring Boot Social Facebook Starter: org.springframework.social:spring-social-web-1.1.4.RELEASE run PASSED. 1.095712s
+Spring Boot Social Facebook Starter: org.springframework.social:spring-social-facebook-2.0.3.RELEASE run PASSED. 1.723788s
+Spring Boot Social Facebook Starter: org.springframework.social:spring-social-core-1.1.4.RELEASE run PASSED. 1.154393s
+Spring Boot Data Solr Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 2.373129s
+Spring Boot Data Solr Starter: org.apache.solr:solr-solrj-5.5.4 run PASSED. 1.665493s
+Spring Boot Data Solr Starter: org.springframework.data:spring-data-solr-2.1.1.RELEASE run PASSED. 2.737867s
+Spring Boot Data Solr Starter: org.apache.httpcomponents:httpmime-4.5.3 run PASSED. 2.421328s
+Spring Boot AOP Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.994034s
+Spring Boot AOP Starter: org.aspectj:aspectjweaver-1.8.9 run PASSED. 1.738439s
+Spring Boot AOP Starter: org.springframework:spring-aop-4.3.7.RELEASE run PASSED. 2.198523s
+Spring Boot Tomcat Starter: org.apache.tomcat.embed:tomcat-embed-websocket-8.5.11 run PASSED. 2.120359s
+Spring Boot Tomcat Starter: org.apache.tomcat.embed:tomcat-embed-el-8.5.11 run PASSED. 1.980493s
+Spring Boot Tomcat Starter: org.apache.tomcat.embed:tomcat-embed-core-8.5.11 run PASSED. 1.666521s
+Spring Boot Social Twitter Starter: org.springframework.boot:spring-boot-starter-web-1.5.2.RELEASE run PASSED. 1.593411s
+Spring Boot Social Twitter Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.671174s
+Spring Boot Social Twitter Starter: org.springframework.social:spring-social-twitter-1.1.2.RELEASE run PASSED. 1.624439s
+Spring Boot Social Twitter Starter: org.springframework.social:spring-social-config-1.1.4.RELEASE run PASSED. 1.50661s
+Spring Boot Social Twitter Starter: org.springframework.social:spring-social-web-1.1.4.RELEASE run PASSED. 2.41832s
+Spring Boot Social Twitter Starter: org.springframework.social:spring-social-core-1.1.4.RELEASE run PASSED. 1.478369s
+Spring Boot Spring Cloud Connectors Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 2.420633s
+Spring Boot Spring Cloud Connectors Starter: org.springframework.cloud:spring-cloud-cloudfoundry-connector-1.2.3.RELEASE run PASSED. 2.018707s
+Spring Boot Spring Cloud Connectors Starter: org.springframework.cloud:spring-cloud-heroku-connector-1.2.3.RELEASE run PASSED. 1.493655s
+Spring Boot Spring Cloud Connectors Starter: org.springframework.cloud:spring-cloud-localconfig-connector-1.2.3.RELEASE run PASSED. 1.98463s
+Spring Boot Spring Cloud Connectors Starter: org.springframework.cloud:spring-cloud-spring-service-connector-1.2.3.RELEASE run PASSED. 1.151619s
+Spring Boot Undertow Starter: javax.servlet:javax.servlet-api-3.1.0 run PASSED. 1.664747s
+Error running component analysis of io.undertow:undertow-servlet-1.4.11.Final
+Spring Boot Undertow Starter: io.undertow:undertow-core-1.4.11.Final run PASSED. 2.464898s
+Spring Boot Undertow Starter: io.undertow:undertow-websockets-jsr-1.4.11.Final run PASSED. 2.407533s
+Spring Boot Undertow Starter: org.glassfish:javax.el-3.0.0 run PASSED. 1.492521s
+Spring Boot Security Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.667166s
+Spring Boot Security Starter: org.springframework.security:spring-security-config-4.2.2.RELEASE run PASSED. 2.418869s
+Spring Boot Security Starter: org.springframework:spring-aop-4.3.7.RELEASE run PASSED. 2.277199s
+Spring Boot Security Starter: org.springframework.security:spring-security-web-4.2.2.RELEASE run PASSED. 2.021199s
+Spring Boot Validation Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 2.144174s
+Spring Boot Validation Starter: org.apache.tomcat.embed:tomcat-embed-el-8.5.11 run PASSED. 1.589312s
+Error running component analysis of org.hibernate:hibernate-validator-5.3.4.Final
+Spring Boot WebSocket Starter: org.springframework.boot:spring-boot-starter-web-1.5.2.RELEASE run PASSED. 2.456073s
+Spring Boot WebSocket Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 2.426354s
+Spring Boot WebSocket Starter: org.springframework:spring-websocket-4.3.7.RELEASE run PASSED. 2.413155s
+Spring Boot WebSocket Starter: org.springframework:spring-messaging-4.3.7.RELEASE run PASSED. 2.422824s
+Vert.x Bare Web: io.vertx:vertx-web-3.4.1 run PASSED. 1.995877s
+Vert.x Bare Web: io.vertx:vertx-web-templ-freemarker-3.4.1 run PASSED. 1.133286s
+Vert.x Bare Web: io.vertx:vertx-rx-java-3.4.1 run PASSED. 2.457463s
+Vert.x Bare Web: io.vertx:vertx-core-3.4.1 run PASSED. 2.460823s
+Vert.x Bare Web: io.vertx:vertx-web-templ-handlebars-3.4.1 run PASSED. 1.495568s
+Vert.x Bare Web: io.vertx:vertx-jdbc-client-3.4.1 run PASSED. 2.767299s
+Vert.x Bare Web: io.vertx:vertx-web-client-3.4.1 run PASSED. 1.494352s
+flask-mongo: flask-0.12.1 run PASSED. 1.744144s
+flask-mongo: flask-wtf-0.14.2 run PASSED. 1.105637s
+flask-mongo: flask-pymongo-0.4.1 run PASSED. 2.440338s
+Spring Boot Data MongoDB Starter: org.mongodb:mongodb-driver-3.4.2 run PASSED. 1.986385s
+Spring Boot Data MongoDB Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.819828s
+Spring Boot Data MongoDB Starter: org.springframework.data:spring-data-mongodb-1.10.1.RELEASE run PASSED. 2.027359s
+Feedhenry MBaaS APIs: optval-1.0.1 run PASSED. 1.48844s
+Feedhenry MBaaS APIs: fh-mbaas-client-0.15.0 run PASSED. 1.363502s
+Feedhenry MBaaS APIs: pkginfo-0.2.3 run PASSED. 1.487465s
+Feedhenry MBaaS APIs: xtend-4.0.1 run PASSED. 2.092288s
+Feedhenry MBaaS APIs: underscore-1.7.0 run PASSED. 1.677735s
+Feedhenry MBaaS APIs: fh-security-0.2.0 run PASSED. 2.013056s
+Feedhenry MBaaS APIs: moment-2.15.2 run PASSED. 2.053279s
+Feedhenry MBaaS APIs: request-2.74.0 run PASSED. 2.472937s
+Feedhenry MBaaS APIs: redis-2.6.5 run PASSED. 2.420672s
+Feedhenry MBaaS APIs: lodash-contrib-393.0.1 run PASSED. 2.419432s
+Feedhenry MBaaS APIs: colors-0.6.2 run PASSED. 20.556469s
+Feedhenry MBaaS APIs: fh-statsc-0.3.0 run PASSED. 1.958995s
+Feedhenry MBaaS APIs: mongodb-queue-2.2.0 run PASSED. 1.102744s
+Feedhenry MBaaS APIs: stack-trace-0.0.9 run PASSED. 1.257247s
+Feedhenry MBaaS APIs: memcached-2.0.0 run PASSED. 2.368735s
+Feedhenry MBaaS APIs: mongodb-uri-0.9.7 run PASSED. 1.65752s
+Feedhenry MBaaS APIs: cycle-1.0.3 run PASSED. 1.150774s
+Feedhenry MBaaS APIs: backoff-2.5.0 run PASSED. 2.41213s
+Feedhenry MBaaS APIs: fh-mbaas-express-5.7.0 run PASSED. 2.478645s
+Feedhenry MBaaS APIs: parse-duration-0.1.1 run PASSED. 1.993737s
+Feedhenry MBaaS APIs: fh-db-1.4.4 run PASSED. 1.180645s
+Feedhenry MBaaS APIs: debug-2.6.3 run PASSED. 2.362019s
+Feedhenry MBaaS APIs: async-2.1.5 run PASSED. 2.031698s
+Feedhenry MBaaS APIs: mongodb-2.1.18 run PASSED. 1.690368s
+Feedhenry MBaaS APIs: unifiedpush-node-sender-0.12.1 run PASSED. 1.950787s
+Feedhenry MBaaS APIs: mongodb-lock-0.4.0 run PASSED. 1.174687s
+Feedhenry MBaaS APIs: fh-component-metrics-2.6.0 run PASSED. 1.645942s
+Feedhenry MBaaS APIs: eyes-0.1.8 run PASSED. 27.701935s
+flask-api: flask-0.12.1 run PASSED. 2.422473s
+flask-api: flask-0.12.1 run PASSED. 1.591453s
+flask-api: flask-restful-0.3.5 run PASSED. 3.015055s
+flask-api: flask-restful-0.3.5 run PASSED. 1.486366s
+flask-api: flask-httpauth-3.2.2 run PASSED. 2.374878s
+flask-api: flask-httpauth-3.2.2 run PASSED. 20.764806s
+Spring Boot Artemis Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 2.106205s
+Error running component analysis of org.apache.activemq:artemis-jms-client-1.5.3
+Spring Boot Artemis Starter: org.springframework:spring-jms-4.3.7.RELEASE run PASSED. 1.801033s
+feedhenry-mbaas-express: fh-reportingclient-0.5.5 run PASSED. 1.664855s
+feedhenry-mbaas-express: express-4.15.2 run PASSED. 1.11929s
+feedhenry-mbaas-express: fh-amqp-js-0.7.1 run PASSED. 1.122217s
+feedhenry-mbaas-express: async-0.2.9 run PASSED. 2.410366s
+feedhenry-mbaas-express: cors-2.1.0 run PASSED. 1.505717s
+feedhenry-mbaas-express: request-2.81.0 run PASSED. 1.330792s
+feedhenry-mbaas-express: type-is-1.1.0 run PASSED. 1.488647s
+feedhenry-mbaas-express: body-parser-1.17.1 run PASSED. 1.350273s
+feedhenry-mbaas-express: fh-mbaas-client-0.16.5 run PASSED. 1.482706s
+feedhenry-mbaas-express: underscore-1.5.1 run PASSED. 1.117572s
+Error running component analysis of multer-0.1.8
+Spring Boot Narayana JTA Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 2.03887s
+Spring Boot Narayana JTA Starter: javax.transaction:javax.transaction-api-1.2 run PASSED. 1.84443s
+Spring Boot Narayana JTA Starter: org.jboss:jboss-transaction-spi-7.5.1.Final run PASSED. 1.994659s
+Spring Boot Narayana JTA Starter: org.jboss.narayana.jta:jdbc-5.5.3.Final run PASSED. 2.3204s
+Spring Boot Narayana JTA Starter: org.jboss.narayana.jta:jta-5.5.3.Final run PASSED. 1.662585s
+Spring Boot Narayana JTA Starter: org.jboss.narayana.jts:narayana-jts-integration-5.5.3.Final run PASSED. 1.585124s
+Spring Boot Narayana JTA Starter: org.jboss.narayana.jta:jms-5.5.3.Final run PASSED. 1.669037s
+Spring Boot Data Couchbase Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.563809s
+Spring Boot Data Couchbase Starter: org.springframework.data:spring-data-couchbase-2.2.1.RELEASE run PASSED. 1.172054s
+Vert.x Full Web: io.vertx:vertx-web-3.4.1 run PASSED. 2.111408s
+Vert.x Full Web: io.vertx:vertx-web-templ-freemarker-3.4.1 run PASSED. 1.099411s
+Vert.x Full Web: org.jooq:jooq-3.6.0 run PASSED. 2.409775s
+Vert.x Full Web: ch.qos.logback:logback-core-1.2.1 run PASSED. 2.090772s
+Vert.x Full Web: org.slf4j:slf4j-api-1.7.22 run PASSED. 2.267764s
+Vert.x Full Web: ch.qos.logback:logback-classic-1.2.1 run PASSED. 2.091015s
+Vert.x Full Web: org.apache.commons:commons-lang3-3.4 run PASSED. 1.668948s
+Vert.x Full Web: javax.validation:validation-api-1.1.0.Final run PASSED. 1.117753s
+Vert.x Full Web: com.google.guava:guava-20.0 run PASSED. 2.320582s
+Vert.x Full Web: commons-io:commons-io-2.5 run PASSED. 1.817341s
+Vert.x Full Web: org.hibernate:hibernate-validator-5.4.0.Final run PASSED. 28.634907s
+Vert.x Full Web: io.vertx:vertx-rx-java-3.4.1 run PASSED. 2.461774s
+Vert.x Full Web: io.vertx:vertx-core-3.4.1 run PASSED. 1.671828s
+Vert.x Full Web: joda-time:joda-time-2.9.7 run PASSED. 2.14244s
+Vert.x Full Web: org.liquibase:liquibase-core-3.5.3 run PASSED. 1.898631s
+Vert.x Full Web: org.postgresql:postgresql-9.4.1212 run PASSED. 1.658153s
+Vert.x Full Web: io.vertx:vertx-web-templ-handlebars-3.4.1 run PASSED. 2.236075s
+Vert.x Full Web: io.vertx:vertx-jdbc-client-3.4.1 run PASSED. 2.425517s
+Vert.x Full Web: io.vertx:vertx-web-client-3.4.1 run PASSED. 1.99991s
+Spring Boot Bitronix JTA Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 22.019897s
+Spring Boot Bitronix JTA Starter: javax.transaction:javax.transaction-api-1.2 run PASSED. 1.46866s
+Spring Boot Bitronix JTA Starter: org.codehaus.btm:btm-2.1.4 run PASSED. 2.123025s
+Spring Boot Bitronix JTA Starter: javax.jms:jms-api-1.1-rev-1 run PASSED. 1.995729s
+Spring Boot Logging Starter: org.slf4j:jul-to-slf4j-1.7.25 run PASSED. 2.073616s
+Spring Boot Logging Starter: org.slf4j:jcl-over-slf4j-1.7.25 run PASSED. 2.398691s
+Spring Boot Logging Starter: org.slf4j:log4j-over-slf4j-1.7.25 run PASSED. 2.405387s
+Spring Boot Logging Starter: ch.qos.logback:logback-classic-1.2.2 run PASSED. 1.994556s
+Spring Boot Data Neo4j Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.669005s
+Spring Boot Data Neo4j Starter: org.springframework.data:spring-data-neo4j-4.2.1.RELEASE run PASSED. 28.199832s
+Spring Boot Reactor Netty Starter: io.projectreactor.ipc:reactor-netty-0.6.2.RELEASE run PASSED. 1.545999s
+Spring Boot Web Services Starter: org.springframework.boot:spring-boot-starter-web-1.5.2.RELEASE run PASSED. 21.188767s
+Spring Boot Web Services Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.78278s
+Spring Boot Web Services Starter: org.springframework.ws:spring-ws-core-2.4.0.RELEASE run PASSED. 1.588802s
+Spring Boot Web Services Starter: org.springframework:spring-oxm-4.3.7.RELEASE run PASSED. 2.406642s
+Spring Boot Actuator Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.987164s
+Spring Boot Actuator Starter: org.springframework.boot:spring-boot-actuator-1.5.2.RELEASE run PASSED. 1.650325s
+django-postgres: Django-1.11 run PASSED. 1.795069s
+django-postgres: psycopg2-2.7.1 run PASSED. 1.914861s
+Spring Boot Thymeleaf Starter: org.springframework.boot:spring-boot-starter-web-1.5.2.RELEASE run PASSED. 1.416294s
+Spring Boot Thymeleaf Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 4.750431s
+Spring Boot Thymeleaf Starter: nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect-1.4.0 run PASSED. 1.127311s
+Spring Boot Thymeleaf Starter: org.thymeleaf:thymeleaf-spring4-2.1.5.RELEASE run PASSED. 1.150053s
+Spring Boot JDBC Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 29.166792s
+Spring Boot JDBC Starter: org.apache.tomcat:tomcat-jdbc-8.5.11 run PASSED. 1.136638s
+Spring Boot JDBC Starter: org.springframework:spring-jdbc-4.3.7.RELEASE run PASSED. 1.943662s
+Spring Boot Data JPA Starter: org.springframework.boot:spring-boot-starter-aop-1.5.2.RELEASE run PASSED. 2.218273s
+Spring Boot Data JPA Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 2.099266s
+Spring Boot Data JPA Starter: javax.transaction:javax.transaction-api-1.2 run PASSED. 1.164078s
+Spring Boot Data JPA Starter: org.hibernate:hibernate-core-5.0.12.Final run PASSED. 2.425554s
+Spring Boot Data JPA Starter: org.springframework:spring-aspects-4.3.7.RELEASE run PASSED. 2.408179s
+Spring Boot Data JPA Starter: org.hibernate:hibernate-entitymanager-5.0.12.Final run PASSED. 1.977406s
+Spring Boot Data JPA Starter: org.springframework.data:spring-data-jpa-1.11.1.RELEASE run PASSED. 2.27964s
+Spring Boot Data JPA Starter: org.springframework.boot:spring-boot-starter-jdbc-1.5.2.RELEASE run PASSED. 1.67727s
+Spring Boot Jersey Starter: com.fasterxml.jackson.core:jackson-databind-2.8.7 run PASSED. 1.986621s
+Spring Boot Jersey Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.864949s
+Spring Boot Jersey Starter: org.glassfish.jersey.containers:jersey-container-servlet-core-2.25.1 run PASSED. 1.670843s
+Spring Boot Jersey Starter: org.glassfish.jersey.core:jersey-server-2.25.1 run PASSED. 1.703179s
+Spring Boot Jersey Starter: org.glassfish.jersey.media:jersey-media-json-jackson-2.25.1 run PASSED. 1.169504s
+Spring Boot Jersey Starter: org.glassfish.jersey.ext:jersey-bean-validation-2.25.1 run PASSED. 1.36935s
+Spring Boot Jersey Starter: org.glassfish.jersey.containers:jersey-container-servlet-2.25.1 run PASSED. 2.066826s
+Spring Boot Jersey Starter: org.glassfish.jersey.ext:jersey-spring3-2.25.1 run PASSED. 1.948284s
+Spring Boot Jersey Starter: org.springframework:spring-web-4.3.7.RELEASE run PASSED. 1.949277s
+Spring Boot Jersey Starter: org.springframework.boot:spring-boot-starter-validation-1.5.2.RELEASE run PASSED. 1.624753s
+Spring Boot Jersey Starter: org.springframework.boot:spring-boot-starter-tomcat-1.5.2.RELEASE run PASSED. 1.665734s
+Spring Boot ActiveMQ Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.765848s
+Spring Boot ActiveMQ Starter: org.apache.activemq:activemq-broker-5.14.3 run PASSED. 1.804975s
+Spring Boot ActiveMQ Starter: org.springframework:spring-jms-4.3.7.RELEASE run PASSED. 1.988382s
+Spring Boot Log4j 2 Starter: org.apache.logging.log4j:log4j-api-2.7 run PASSED. 1.144459s
+Spring Boot Log4j 2 Starter: org.apache.logging.log4j:log4j-core-2.7 run PASSED. 2.62284s
+Spring Boot Log4j 2 Starter: org.apache.logging.log4j:log4j-slf4j-impl-2.7 run PASSED. 1.470381s
+Spring Boot Log4j 2 Starter: org.slf4j:jcl-over-slf4j-1.7.24 run PASSED. 1.997725s
+Spring Boot Log4j 2 Starter: org.slf4j:jul-to-slf4j-1.7.24 run PASSED. 1.657208s
+Spring Boot Atomikos JTA Starter: com.atomikos:transactions-jms-3.9.3 run PASSED. 1.512758s
+Spring Boot Atomikos JTA Starter: com.atomikos:transactions-jdbc-3.9.3 run PASSED. 1.298458s
+Spring Boot Atomikos JTA Starter: com.atomikos:transactions-jta-3.9.3 run PASSED. 3.371648s
+Spring Boot Atomikos JTA Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 21.065321s
+Spring Boot Atomikos JTA Starter: javax.transaction:javax.transaction-api-1.2 run PASSED. 1.186403s
+Spring Boot Mobile Starter: org.springframework.boot:spring-boot-starter-web-1.5.2.RELEASE run PASSED. 2.407031s
+Spring Boot Mobile Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 2.423845s
+Spring Boot Mobile Starter: org.springframework.mobile:spring-mobile-device-1.1.5.RELEASE run PASSED. 1.487955s
+Spring Boot WebFlux Starter: org.hibernate:hibernate-validator-5.4.1.Final run PASSED. 1.98243s
+Spring Boot WebFlux Starter: org.springframework:spring-webflux-5.0.0.BUILD-SNAPSHOT run FAILED. 1.984116s
+Spring Boot WebFlux Starter: org.springframework:spring-web-5.0.0.BUILD-SNAPSHOT run FAILED. 2.004278s
+Spring Boot WebFlux Starter: com.fasterxml.jackson.core:jackson-databind-2.9.0.pr2 run PASSED. 1.942714s
+Spring Boot WebFlux Starter: org.springframework.boot:spring-boot-starter-2.0.0.BUILD-SNAPSHOT run FAILED. 2.021738s
+Spring Boot WebFlux Starter: org.springframework.boot:spring-boot-starter-reactor-netty-2.0.0.BUILD-SNAPSHOT run FAILED. 2.411963s
+Spring Boot Social LinkedIn Starter: org.springframework.boot:spring-boot-starter-web-1.5.2.RELEASE run PASSED. 1.490832s
+Spring Boot Social LinkedIn Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.669192s
+Spring Boot Social LinkedIn Starter: org.springframework.social:spring-social-config-1.1.4.RELEASE run PASSED. 2.030976s
+Spring Boot Social LinkedIn Starter: org.springframework.social:spring-social-linkedin-1.0.2.RELEASE run PASSED. 1.654968s
+Spring Boot Social LinkedIn Starter: org.springframework.social:spring-social-web-1.1.4.RELEASE run PASSED. 1.487902s
+Spring Boot Social LinkedIn Starter: org.springframework.social:spring-social-core-1.1.4.RELEASE run PASSED. 2.425237s
+Vert.x Full OpenShift: io.vertx:vertx-web-3.4.1 run PASSED. 1.455496s
+Vert.x Full OpenShift: io.vertx:vertx-web-templ-freemarker-3.4.1 run PASSED. 1.130986s
+Vert.x Full OpenShift: io.vertx:vertx-config-yaml-3.4.1 run PASSED. 1.068688s
+Vert.x Full OpenShift: org.jooq:jooq-3.6.0 run PASSED. 1.760165s
+Vert.x Full OpenShift: ch.qos.logback:logback-core-1.2.1 run PASSED. 3.134626s
+Vert.x Full OpenShift: ch.qos.logback:logback-classic-1.2.1 run PASSED. 2.27547s
+Vert.x Full OpenShift: org.apache.commons:commons-lang3-3.4 run PASSED. 2.191005s
+Vert.x Full OpenShift: javax.validation:validation-api-1.1.0.Final run PASSED. 1.54769s
+Vert.x Full OpenShift: com.google.guava:guava-20.0 run PASSED. 1.999018s
+Vert.x Full OpenShift: commons-io:commons-io-2.5 run PASSED. 1.655438s
+Vert.x Full OpenShift: org.hibernate:hibernate-validator-5.4.0.Final run PASSED. 1.726094s
+Vert.x Full OpenShift: io.vertx:vertx-rx-java-3.4.1 run PASSED. 1.510063s
+Vert.x Full OpenShift: io.vertx:vertx-core-3.4.1 run PASSED. 1.673164s
+Vert.x Full OpenShift: joda-time:joda-time-2.9.7 run PASSED. 1.652454s
+Vert.x Full OpenShift: io.vertx:vertx-web-templ-handlebars-3.4.1 run PASSED. 1.156545s
+Vert.x Full OpenShift: io.vertx:vertx-jdbc-client-3.4.1 run PASSED. 1.560151s
+Vert.x Full OpenShift: io.vertx:vertx-config-3.4.1 run PASSED. 1.248793s
+Vert.x Full OpenShift: io.vertx:vertx-web-client-3.4.1 run PASSED. 2.244963s
+Vert.x Full OpenShift: io.vertx:vertx-service-discovery-3.4.1 run PASSED. 1.40619s
+Vert.x Full OpenShift: io.vertx:vertx-health-check-3.4.1 run PASSED. 1.198149s
+Vert.x Full OpenShift: io.vertx:vertx-config-kubernetes-configmap-3.4.1 run PASSED. 1.183021s
+Vert.x Full OpenShift: io.vertx:vertx-service-discovery-bridge-kubernetes-3.4.1 run PASSED. 2.046427s
+Spring Boot Starter: org.springframework.boot:spring-boot-starter-logging-1.5.2.RELEASE run PASSED. 1.676018s
+Spring Boot Starter: org.springframework.boot:spring-boot-autoconfigure-1.5.2.RELEASE run PASSED. 2.136867s
+Spring Boot Starter: org.springframework:spring-core-4.3.7.RELEASE run PASSED. 2.492135s
+Spring Boot Starter: org.springframework.boot:spring-boot-1.5.2.RELEASE run PASSED. 1.655291s
+Spring Boot Data Redis Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 2.375172s
+Spring Boot Data Redis Starter: redis.clients:jedis-2.9.0 run PASSED. 2.416902s
+Spring Boot Data Redis Starter: org.springframework.data:spring-data-redis-1.8.1.RELEASE run PASSED. 2.411991s
+Spring Boot Integration Starter: org.springframework.boot:spring-boot-starter-aop-1.5.2.RELEASE run PASSED. 2.111823s
+Spring Boot Integration Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.6569s
+Spring Boot Integration Starter: org.springframework.integration:spring-integration-java-dsl-1.2.1.RELEASE run PASSED. 1.143652s
+Spring Boot Integration Starter: org.springframework.integration:spring-integration-core-4.3.8.RELEASE run PASSED. 2.309454s
+Spring Boot JOOQ Starter: org.springframework.boot:spring-boot-starter-1.5.2.RELEASE run PASSED. 1.672955s
+Spring Boot JOOQ Starter: org.jooq:jooq-3.9.1 run PASSED. 1.137736s
+Spring Boot JOOQ Starter: org.springframework:spring-tx-4.3.7.RELEASE run PASSED. 1.997183s
+Spring Boot JOOQ Starter: org.springframework.boot:spring-boot-starter-jdbc-1.5.2.RELEASE run PASSED. 1.790546s
+Spring Boot Test Starter: org.hamcrest:hamcrest-library-1.3 run PASSED. 1.802492s
+Spring Boot Test Starter: junit:junit-4.12 run PASSED. 2.969874s
+Spring Boot Test Starter: org.mockito:mockito-core-1.10.19 run PASSED. 2.497361s
+Spring Boot Test Starter: com.jayway.jsonpath:json-path-2.2.0 run PASSED. 1.996966s
+Spring Boot Test Starter: org.hamcrest:hamcrest-core-1.3 run PASSED. 1.257857s
+Spring Boot Test Starter: org.skyscreamer:jsonassert-1.4.0 run PASSED. 1.677066s
+Spring Boot Test Starter: org.assertj:assertj-core-2.6.0 run PASSED. 2.13707s
+Spring Boot Test Starter: org.springframework:spring-test-4.3.7.RELEASE run PASSED. 2.146792s
+Spring Boot Test Starter: org.springframework.boot:spring-boot-test-1.5.2.RELEASE run PASSED. 1.591659s
+Spring Boot Test Starter: org.springframework:spring-core-4.3.7.RELEASE run PASSED. 2.412955s
+Spring Boot Test Starter: org.springframework.boot:spring-boot-test-autoconfigure-1.5.2.RELEASE run PASSED. 1.503689s
+Total tests run: 381
+Total tests passed: 370
+Total tests failed: 11
+Average time taken per request: 2.5287085212765956
