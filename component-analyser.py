@@ -25,6 +25,7 @@ for elem in data["result"]["data"]:
     
     url = '{cmd}/{eco}/{pkg}/{ver}'.format(cmd=cmd, eco=eco, pkg=pkg, ver=ver)
 
+    tot_tests_run += 1
     try:
         r = requests.get(url)
     except:
@@ -41,7 +42,6 @@ for elem in data["result"]["data"]:
     else:
         print ("{stack}: {name}-{ver} run {status}. {time_taken}s".format(stack=stack_name, name=pkg, ver=ver, status=colored('FAILED','red'), time_taken=time_taken))
         tot_tests_failed += 1
-    tot_tests_run += 1
 
 avg_time = sum(time_taken_arr)/len(time_taken_arr)
 
