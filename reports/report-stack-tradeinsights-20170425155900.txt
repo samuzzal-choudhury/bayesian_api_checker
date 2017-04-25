@@ -1,0 +1,51 @@
+15:59 # for run in {1..10}; do curl -F "manifest[]=@./pom.xml" https://recommender.api.openshift.io/api/v1/stack-analyses; sleep 10; done
+{
+    "id": "18d7a641b6d64164b1485703e001821c",
+    "status": "success",
+    "submitted_at": "2017-04-25 10:29:33.963329"
+}
+{
+    "id": "fe4c6bbb07e84198b991f6f76221ed20",
+    "status": "success",
+    "submitted_at": "2017-04-25 10:29:45.938997"
+}
+{
+    "id": "f6e539abc9924b48b84950933ac0e6a1",
+    "status": "success",
+    "submitted_at": "2017-04-25 10:29:57.824755"
+}
+{
+    "id": "bcfa948c7c8e49d5a406e74426938905",
+    "status": "success",
+    "submitted_at": "2017-04-25 10:30:10.723092"
+}
+{
+    "id": "392da848abf2478c847b1fd4bddf11da",
+    "status": "success",
+    "submitted_at": "2017-04-25 10:30:23.083093"
+}
+{
+    "id": "d396720f8c99468eab629569edf308b3",
+    "status": "success",
+    "submitted_at": "2017-04-25 10:30:34.999468"
+}
+{
+    "id": "857aa2548b864314a3fb27ce8c17069d",
+    "status": "success",
+    "submitted_at": "2017-04-25 10:30:47.987052"
+}
+{
+    "id": "ff01a545d0304c4fa422ebb4a16f0c9b",
+    "status": "success",
+    "submitted_at": "2017-04-25 10:30:59.896234"
+}
+{
+    "id": "88f50753533943cf8513f335607d8c65",
+    "status": "success",
+    "submitted_at": "2017-04-25 10:31:43.434780"
+}
+{
+    "id": "759ade2f52b748848093773025b33722",
+    "status": "success",
+    "submitted_at": "2017-04-25 10:31:56.890431"
+}
