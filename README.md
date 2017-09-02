@@ -9,3 +9,4 @@ pip install -r requirements.txt
 ```
 python ./component-analysers.py
 ```
+### TODO: Stack analyses
